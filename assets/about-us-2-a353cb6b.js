@@ -1,0 +1,1 @@
+import{j as t}from"./index-90aa246b.js";import{A as o}from"./about-us-2-58a5babc.js";import"./ChevronLeft-e388aa74.js";import"./index.browser-7e542916.js";import"./Facebook-31e12494.js";import"./Twitter-a8a11feb.js";import"./LinkedIn-0a88f3a2.js";const u=()=>t.jsx(o,{});export{u as default};

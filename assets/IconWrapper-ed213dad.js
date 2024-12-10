@@ -1,0 +1,1 @@
+import{s as e,R as o,j as s}from"./index-90aa246b.js";const a=e(o)(({theme:r})=>({width:40,height:40,borderRadius:"5px",marginRight:"0.5rem",backgroundColor:r.palette.primary[100]})),i=({children:r,...t})=>s.jsx(a,{...t,children:r});export{i as I};
